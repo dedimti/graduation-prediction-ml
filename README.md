@@ -2,9 +2,9 @@
 
 **Comparative Analysis of Machine Learning Algorithms for Predicting On-Time Graduation of Undergraduate Students**
 
-> Dedi Irawab, Sudarmaji  
+> Dedi Irawan, Sudarmaji  
 > Informatics, Faculty of Computer Science, Muhammadiyah University of Metro, Indonesia  
-> Published in: *Jurnal Teknik Informatika (JUTIF)*, 2025
+> Published in: *Jurnal Teknik Informatika (JUTIF)*, 2026
 
 ---
 
@@ -120,12 +120,12 @@ python main.py --seed 42 --no-tuning
 If you use this code, please cite:
 
 ```bibtex
-@article{irawab2025graduation,
+@article{irawab2026graduation,
   title   = {Comparative Analysis of Machine Learning Algorithms for Predicting
              On-Time Graduation of Undergraduate Students},
   author  = {Irawab, Dedi and Sudarmaji},
   journal = {Jurnal Teknik Informatika (JUTIF)},
-  year    = {2025},
+  year    = {2026},
   volume  = {},
   pages   = {},
   doi     = {}
